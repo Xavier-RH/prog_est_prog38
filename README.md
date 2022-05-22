@@ -12,12 +12,12 @@ Presenta el uso de:
     <li>Operaciones matemáticas</li>
     <li>#include para añadir librerias</li>
     <li>Condicional if-else</li>
-    <li>Ciclo do while</li>
     <li>Ciclo for</li>
+    <li>Arreglos</li>
   </ul>
 </p>
 
-<b>Objetivo:</b> Hacer uso del ciclo do while para hacer acciones y repetirlas mientra la condicion se cumpla
+<b>Objetivo:</b> Hacer uso de arreglos para almacenar los valor en una lista
 
 <p><b>Breve descripcion:</b><br>
 Programa que almacena las edades de un salon de clases de 10 alumnos<br>
