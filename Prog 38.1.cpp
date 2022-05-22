@@ -1,4 +1,4 @@
-/* Autor: Xavier Romero Hern·ndez, Realizado: 17/03/2022 
+/* Autor: Xavier Romero Hern√°ndez, Realizado: 17/03/2022 
 	Programa que almacena las edades de un salon de clases de 10 alumnos
 	El Programa Calculara:
 		-La media
